@@ -1,11 +1,11 @@
 # Joke-Teller
 
-##Thoughts
+## Thoughts
 
 I have created text to speech projects in the past. This one was different in that it used a joke API to speak the joke. This was a pretty interesting project.\
 It's a neat little app that can be fun for a few minutes listening to your computer tell you some jokes.
 
-##Running this Locally
+## Running this Locally
 
 Go to the documentation page for the Voice RSS Text to Speech API page found [here](https://www.voicerss.org/tts/default.aspx)
 Click on 'Get API Key' on the left nav bar.\
