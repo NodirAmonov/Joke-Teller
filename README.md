@@ -14,4 +14,4 @@ When your account is created, you need to activate the account by clicking the '
 Once your account is activated, you can copy your API key and paste it into the script.js file.\
 Line 18, replace 'config.MY_KEY' with your API key contained in single quotes.
 
-You can this project [View Live](robotgif.netlify.app)
+You can this project [View Live](https://robotgif.netlify.app)
